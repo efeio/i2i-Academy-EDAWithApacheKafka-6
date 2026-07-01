@@ -1,0 +1,15 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+
+# Homework Documents
+*.docx
+*.pdf
+solution_draft.txt
+
+# Maven Build Artifacts
+**/target/
